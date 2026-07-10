@@ -6,7 +6,7 @@ Building AI-powered applications, scalable backends, and clean full-stack soluti
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;Full+Stack+Developer;Always+Learning+Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
