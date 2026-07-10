@@ -56,20 +56,6 @@ Building AI-powered applications, scalable backends, and clean full-stack soluti
 
 </p>
 
----
-
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 **WanderBot** | Multi-Agent AI Travel Planner using LangGraph, FastAPI & React |
-| 📚 **RAG AI Study Assistant** | PDF-based intelligent assistant using FAISS, Gemini & LangChain |
-| ✋ **Gesture Control System** | Real-time hand gesture recognition using OpenCV & MediaPipe |
-| ⚖️ **Court CauseList Parser** | Regex-powered parser supporting multiple Indian High Courts |
-
----
-
-
 
 ---
 
@@ -108,6 +94,12 @@ Building AI-powered applications, scalable backends, and clean full-stack soluti
 <img src="https://github-profile-trophy.vercel.app/?username=Mradul-2604&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p> -->
+
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
 
